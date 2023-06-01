@@ -7,6 +7,7 @@ export const ButtonContainer = styled.button`
 
     height: 62px;
     width: 80%;
+    font-size: 18px;
 
     margin: 20px;
 
